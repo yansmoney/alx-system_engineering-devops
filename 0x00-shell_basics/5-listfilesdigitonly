@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la --numeic-uid-gid
+ls -lan
